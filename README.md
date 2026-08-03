@@ -3,7 +3,9 @@
 An end-to-end Retail Analytics and Business Intelligence Dashboard built using Python, Streamlit, SQLite, Pandas, Plotly, and Machine Learning.
 
 This platform converts retail transaction data into actionable business insights through interactive dashboards, analytics, forecasting, and automated reporting.
+## 🚀 Live Demo
 
+🔗 **Streamlit App:** https://retail-intelligence-platform-lubcfut22rd5dw475jsqb2.streamlit.app/
 ## 🚀 Features
 
 ### 📌 Executive Dashboard
