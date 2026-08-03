@@ -1,5 +1,7 @@
 venv/
 __pycache__/
 *.pyc
-.DS_Store
 .streamlit/
+.DS_Store
+.ipynb_checkpoints/
+.env
