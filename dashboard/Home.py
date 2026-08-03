@@ -14,4 +14,21 @@ st.set_page_config(
 )
 
 st.title("🏪 Retail Intelligence Platform")
-st.write("Select a page from the sidebar.")
+import streamlit as st
+
+st.title("🏪 Retail Intelligence Platform")
+
+st.markdown("""
+## Welcome 👋
+
+Ye ek **End-to-End Retail Intelligence Platform** hai.
+
+### Modules
+- 📊 Executive Dashboard
+- 💰 Sales Analytics
+- 👥 Customer Analytics
+- 📦 Inventory Analytics
+- 🗄️ SQL Insights
+
+👈 Sidebar se kisi bhi module par click karo.
+""")
