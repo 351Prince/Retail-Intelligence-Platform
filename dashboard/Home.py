@@ -11,7 +11,7 @@ st.title("🏪 Retail Intelligence Platform")
 st.markdown("""
 ## Welcome 👋
 
-Ye ek **End-to-End Retail Intelligence Platform** hai.
+An all-in-one Retail Analytics Platform featuring interactive dashboards, sales forecasting, customer insights, inventory optimization, SQL analytics, and AI-powered business intelligence.
 
 ### Modules
 
