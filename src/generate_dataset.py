@@ -10,7 +10,7 @@ random.seed(42)
 
 # Test ke liye 10000 rows
 # Baad me isse 500000 kar denge
-rows = 10000
+rows = 500000
 
 products = [
     "Laptop",
