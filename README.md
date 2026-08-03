@@ -52,3 +52,4 @@ This platform converts retail transaction data into actionable business insights
 
 Retail-Intelligence-Platform/
 
+# Updated by 351prince
